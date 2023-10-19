@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8213bbf4-be3d-4087-90c2-c60746f6e894" name="Changes" comment="" />
+    <list default="true" id="8213bbf4-be3d-4087-90c2-c60746f6e894" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NoahPlourdeM.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NoahPlourdeM.github.io.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697744713732</updated>
-      <workItem from="1697744723352" duration="382000" />
+      <workItem from="1697744723352" duration="5392000" />
     </task>
     <servers />
   </component>
